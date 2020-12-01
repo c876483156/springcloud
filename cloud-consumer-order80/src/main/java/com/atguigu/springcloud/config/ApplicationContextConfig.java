@@ -6,7 +6,7 @@ import org.springframework.web.client.RestTemplate;
 
 /**
  * @ClassName ApplicationContextConfig
- * @Description TODO
+ * @Description RestTemplate配置类
  * @Author 陈益方
  * @Date 2020/12/1
  */

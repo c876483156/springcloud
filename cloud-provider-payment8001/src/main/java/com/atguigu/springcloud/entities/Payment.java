@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  * @ClassName Payment
- * @Description TODO
+ * @Description payment实体类
  * @Author 陈益方
  * @Date 2020/12/1
  */

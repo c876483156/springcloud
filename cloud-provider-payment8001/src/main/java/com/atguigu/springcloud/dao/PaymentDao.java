@@ -6,7 +6,7 @@ import org.apache.ibatis.annotations.Param;
 
 /**
  * @ClassName PaymentDao
- * @Description TODO
+ * @Description 服务提供者dao
  * @Author 陈益方
  * @Date 2020/12/1
  */

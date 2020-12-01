@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * @ClassName PaymentMain8001
- * @Description TODO
+ * @Description 服务提供者主类
  * @Author 陈益方
  * @Date 2020/12/1
  */

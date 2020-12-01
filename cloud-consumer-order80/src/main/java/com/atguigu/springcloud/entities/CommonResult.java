@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * @ClassName CommonResult
- * @Description TODO
+ * @Description 前后端传递demo
  * @Author 陈益方
  * @Date 2020/12/1
  */
