@@ -11,8 +11,8 @@ eureka:
     fetch-registry: false
     service-url:
       # 设置与eureka server 交互的地址查询服务和注册服务都需要依赖这个地址
-      defultZone: http://${eureka.instance.hostname}:${server.port}/eureka/  # 单机版
-    #      defaultZone: http://eureka7002.com:7002/eureka/
+#      defultZone: http://${eureka.instance.hostname}:${server.port}/eureka/  # 单机版
+          defaultZone: http://eureka7002.com:7002/eureka/
   server:
     # 无情版 关闭自我保护机制，保证不可用服务被及时剔除
     enable-self-preservation: false
